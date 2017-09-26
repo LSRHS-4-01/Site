@@ -1,0 +1,23 @@
+body{
+  color: darkblue;
+  background-color: lightblue
+}
+
+h1{
+  color: darkblue;
+  font-family: 'Raleway', sans-serif;
+    font-size:30pt;
+  }
+h2{
+  color: darkblue;
+  font-family: 'Raleway', sans-serif;
+    font-size:30pt;
+  }
+  a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+p{
+  font-family: 'Raleway', sans-serif;
+}

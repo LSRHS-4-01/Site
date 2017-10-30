@@ -1,0 +1,29 @@
+body {
+  color: green;
+  background-color: lavender;
+}
+p {
+Font and size
+
+
+}
+h1{
+  color:pink;
+font-family: 'Oswald', sans-serif;
+  font-size:30pt;
+}
+h2{
+  color:pink;
+font-family: 'Oswald', sans-serif;
+  font-size:30pt;
+}
+  a:hover {
+    color: turquoise;
+    background-color: transparent;
+    text-decoration: underline;
+
+}
+p{
+  font-family: 'Raleway', sans-serif;
+}
+img{

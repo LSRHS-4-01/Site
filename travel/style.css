@@ -1,0 +1,28 @@
+#header{
+  background-color: pink;
+  background-image: url("banner.png");
+width: 2000px;
+height: 300px;
+border: 1px solid green;
+float: left;
+padding: 15px;
+}
+
+#menu {
+  background-color: pink;
+width: 150px;
+height: 900px;
+border: 1px solid red;
+padding: 5px;
+float: left;
+clear:both;
+}
+
+#content{
+width:1010px;
+height:900px;
+border: 1px solid blue;
+padding:5px;
+float:left;
+  background-color: lavender;
+}

@@ -1,0 +1,24 @@
+<html>
+<head>
+  <link rel= "stylesheet" type= "text/css" href= "style.css">
+</head>
+<body>
+  <div id= "header">
+<h1> Costa Rica </h1>
+</div>
+  <div id= "menu">
+<ul>
+    <li><a href= "#">Home</a></li>
+    <li><a href= "lodging.html">Lodgings</a></li>
+    <li><a href= "attractions.html">Attractions</a></li>
+    <li><a href= "location.html">Locations</a></li>
+    <li><a href= "testimonial.html">Testimonials</a></li>
+    <li><a href= "citations.html">Citations</a></li>
+    </div>
+  </ul>
+  <div id= "content">
+    <img src= "travelcitations.png">
+  </div>
+
+  <body>
+    </html>

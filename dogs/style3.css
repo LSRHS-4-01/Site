@@ -1,0 +1,32 @@
+body {
+  color: blue;
+  background-color: pink;
+}
+
+.container{
+  color:#BFD8D2;
+  font-family: 'Lora', serif;
+  font-size:30pt;
+}
+.col{
+  color:#FEDCD2;
+  font-family: 'Lora', serif;
+  font-size:20pt;
+}
+.row {
+  color:#DCB239;
+  font-family: 'Lora', serif;
+  font-size:15pt;
+}
+  a:hover {
+    color: turquoise;
+    background-color: transparent;
+    text-decoration: underline;
+
+}
+p{
+  color:blue
+  font-family: 'Lora', serif;
+  font-size: 20pt;
+}
+img{
